@@ -1,8 +1,5 @@
 # PC-GITA-pa-ta-ka
 
-This is a private repository for researchers signed the PC-GITA agreement. If you have not done so, please do not download the recordings. 
-
-
 This report contains the segmented /pa/, /ta/, and /ka/ obstruent-sonorant (OS) pair extracted from PC-GITA. When using these segments please reference to PC-GITA paper and the segmentation paper listed below:
 
 1. Orozco-Arroyave, J. R., Arias-Londono, J. D., Vargas-Bonilla, J. F., González Rátiva, M. C., & Nöth, E. (2014). New Spanish speech corpus database for the analysis of people suffering from Parkinson’s disease. In Proc. Int. Conf. Lang Resour Eval (LREC) (pp. 342–347). Retrieved from http://www.lrec-conf.org/proceedings/lrec2014/summaries/7.html
